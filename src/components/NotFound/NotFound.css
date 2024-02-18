@@ -1,0 +1,21 @@
+.not-found {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.not-found h1 {
+    font-size: 70px;
+    font-style: italic;
+    font-weight: bolder;
+    margin: 25px 0;
+}
+
+.not-found h2 {
+    font-size: 40px;
+    font-style: italic;
+    font-weight: lighter;
+    margin: 20px 0;
+}

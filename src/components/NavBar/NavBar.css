@@ -1,0 +1,33 @@
+.nav-bar {
+    background-color: #dc3545;
+    padding: 15px;
+    padding-right: 70px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    color: #F3F3F3;
+}
+
+.brand-link {
+    font-weight: bold;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+.nav-links-container {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.nav-links {
+    font-weight: lighter;
+    font-weight: 15px;
+    text-decoration: none;
+}
+
+.nav-links:visited,
+.brand-link:visited{
+    color: #F3F3F3;
+}
